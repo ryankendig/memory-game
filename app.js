@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  //check for matches
+  //check for matchers
 
   //flip card
   function flipCard() {
